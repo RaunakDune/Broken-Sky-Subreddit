@@ -1,0 +1,11 @@
+http://e-book-ing.com/9469-broken-sky-01-chris-wooding.html
+
+https://www.reddit.com/r/Minimaluminiumalism/wiki/index#wiki_flairs
+
+/*USER FLAIR LABELS*/
+.flair-redflair[Calica]:before {content: 'Redflair';}
+.flair-purpleflair[Aurin]:before {content: 'Purpleflair';}
+.flair-greenflair[Kia]:before {content: 'Greenflair';}
+.flair-orangeflair[Elani]:before {content: 'Orangeflair';}
+.flair-blueflair[Ryushi]:before {content: 'Blueflair';}
+/*END USER FLAIR LABELS*/
